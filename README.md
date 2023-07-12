@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptosalarie
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning appscript
+- 🌱 I’m currently learning appsscript
 
 <!---
 cryptosalarie/cryptosalarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
